@@ -1,3 +1,3 @@
-# Run Length-Encoding
+# Run Length Encoding
 
 Implementation in Java
